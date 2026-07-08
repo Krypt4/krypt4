@@ -69,7 +69,7 @@ I'm currently training as a **QA Tester with Java**, covering everything from pr
 | **Adecco** | QA Testing with Java and Spring | Mar 2026 – Jul 2026 |
 | **Coursera & IBM Skills Network** | IBM Data Science | Mar 2026 – May 2026 |
 | **42** | Coding Cursus, Computer Programming | Apr 2025 – Jan 2026 |
-| **Adams Formación** | IFCT0022 BIG DATA - V1 | Mar 2026 – Apr 2026 |
+| **Adams Formación** | IFCT0022: Big Data - V1 | Mar 2026 – Apr 2026 |
 | **Adams Formación** | Civil Service Exam Prep, IT Assistant | Sep 2025 |
 | **Femxa** | ITIFC0003: Network protocols and technologies applied to cybersecurity | Aug 2025 - Sep 2025 |
 ---
