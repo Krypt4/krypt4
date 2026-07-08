@@ -89,7 +89,7 @@ I'm currently training as a **QA Tester with Java**, covering everything from pr
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Krypt4&show_icons=true&theme=dark&hide_border=true" alt="Alba's GitHub stats" />
+<img height="165" src="https://github-readme-stats-eight-sepia.vercel.app/api?username=Krypt4&show_icons=true&theme=dark&hide_border=true" alt="Alba's GitHub stats" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Krypt4&hide_border=true&theme=dark" alt="Alba's GitHub streak" />
 
 </div>
