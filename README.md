@@ -18,7 +18,7 @@
 
 I'm currently training as a **QA Tester with Java**, covering everything from programming fundamentals to the full software testing cycle. I write unit and integration tests, automate UI testing, and validate REST APIs and databases to help deliver robust, reliable software.
 
-- 🔭 Currently learning **QA Testing with Java & Spring** @ Adecco
+- 🔭 Currently learning **QA Testing with Java & Spring**
 - 📊 Also exploring **Data Science** through IBM & Coursera
 - 🌱 Background in coding fundamentals from **42**
 - 💬 Ask me about testing, automation, or data basics
