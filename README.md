@@ -4,7 +4,7 @@
 
 #  ⋆°.•✧ ༺  Hi, I'm Alba 👋 ༻ ✧•.°⋆ 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA3F7&center=true&vCenter=true&width=600&lines=Trainee+QA+Tester;Software+Testing+%26+Automation;Data+Analysis+Enthusiast;Lifelong+Learner+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=CD63CD&center=true&vCenter=true&width=600&lines=Trainee+QA+Tester;Software+Testing+%26+Automation;Data+Analysis+Enthusiast;Lifelong+Learner+%F0%9F%9A%80" alt="Typing SVG" />
 
 📍 Madrid, Spain
 
