@@ -16,13 +16,13 @@
 
 ### About Me
 
-I'm currently training as a **QA Tester with Java**, covering everything from programming fundamentals to the full software testing cycle. I write unit and integration tests, automate UI testing, and validate REST APIs and databases to help deliver robust, reliable software.
+I'm currently training as a QA Tester with Java, covering everything from programming fundamentals to the full software testing cycle. I write unit and integration tests, automate UI testing, and validate REST APIs and databases to help deliver robust, reliable software.
 
-- 🔭 Currently learning **QA Testing with Java & Spring**
-- 📊 Also exploring **Data Science** through IBM & Coursera
-- 🌱 Background in coding fundamentals from **42**
+- 🔭 Currently learning QA Testing with Java & Spring
+- 📊 I am pursuing a higher degree in cross-platform application development
+- 🌱 Background in coding fundamentals from 42
 - 💬 Ask me about testing, automation, or data basics
-- ⚡ Fun fact: I believe good QA is invisible — you only notice it when it's missing
+- ⚡ Fun fact: I believe good QA is invisible (you only notice it when it's missing)
 
 ---
 
@@ -72,16 +72,6 @@ I'm currently training as a **QA Tester with Java**, covering everything from pr
 | **Adams Formación** | IFCT0022: Big Data - V1 | Mar 2026 – Apr 2026 |
 | **Adams Formación** | Civil Service Exam Prep, IT Assistant | Sep 2025 |
 | **Femxa** | ITIFC0003: Network protocols and technologies applied to cybersecurity | Aug 2025 - Sep 2025 |
----
-
-### Certifications
-
-- Python for Data Science, AI & Development
-- Data Analysis with Python
-- Data Visualization with Python
-- Data Scientist Career Guide and Interview Preparation
-- Databases and SQL for Data Science with Python
-
 ---
 
 ### GitHub Stats
