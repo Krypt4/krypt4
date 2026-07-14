@@ -14,7 +14,7 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
 I'm currently training as a **QA Tester with Java**, covering everything from programming fundamentals to the full software testing cycle. I write unit and integration tests, automate UI testing, and validate REST APIs and databases to help deliver robust, reliable software.
 
@@ -26,7 +26,7 @@ I'm currently training as a **QA Tester with Java**, covering everything from pr
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 <div align="center">
 
@@ -62,7 +62,7 @@ I'm currently training as a **QA Tester with Java**, covering everything from pr
 
 ---
 
-### 🎓 Education
+### Education
 
 | Institution | Program | Dates |
 |---|---|---|
@@ -74,7 +74,7 @@ I'm currently training as a **QA Tester with Java**, covering everything from pr
 | **Femxa** | ITIFC0003: Network protocols and technologies applied to cybersecurity | Aug 2025 - Sep 2025 |
 ---
 
-### 📜 Certifications
+### Certifications
 
 - Python for Data Science, AI & Development
 - Data Analysis with Python
@@ -84,7 +84,7 @@ I'm currently training as a **QA Tester with Java**, covering everything from pr
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
