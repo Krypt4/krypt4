@@ -78,8 +78,8 @@ I'm currently training as a QA Tester with Java, covering everything from progra
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-eight-sepia.vercel.app/api?username=Krypt4&show_icons=true&theme=dark&hide_border=true" alt="Krypt4 Stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Krypt4&hide_border=true&theme=dark" alt="Krypt4 Streak" />
+<img height="165" src="https://github-readme-stats-eight-sepia.vercel.app/api?username=Krypt4&show_icons=true&theme=jolly&hide_border=true" alt="Krypt4 Stats" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Krypt4&hide_border=true&theme=jolly" alt="Krypt4 Streak" />
 
 </div>
 
