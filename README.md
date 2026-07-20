@@ -4,11 +4,11 @@
 
 #  ⋆°.•✧ ༺  Hi, I'm Alba 👋 ༻ ✧•.°⋆ 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=CD63CD&center=true&vCenter=true&width=600&lines=Trainee+QA+Tester;Software+Testing+%26+Automation;Data+Analysis+Enthusiast;Lifelong+Learner+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=AC06BF&center=true&vCenter=true&width=600&lines=Trainee+QA+Tester;Software+Testing+%26+Automation;Data+Analysis+Enthusiast;Lifelong+Learner+%F0%9F%9A%80" alt="Typing SVG" />
 
 📍 Madrid, Spain
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albacarrasmel)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AC06BF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albacarrasmel)
 
 </div>
 
@@ -90,6 +90,6 @@ I'm currently training as a QA Tester with Java, covering everything from progra
 
 *"Passionate about lifelong learning"* ✨
 
-![Profile Views](https://komarev.com/ghpvc/?username=Krypt4&color=2EA3F7&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Krypt4&color=AC06BF&style=flat-square&label=Profile+Views)
 
 </div>
